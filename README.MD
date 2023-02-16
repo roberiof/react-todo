@@ -18,7 +18,7 @@ PS: Since the json-server lib is in beta, the api manipulation sometimes takes a
 
 ## 🚀 Techs used 
 * **[Vite JS](https://vitejs.dev/)**
-* **[ ReactJ S ](https://reactjs.org/docs/getting-started.html)**
+* **[ React JS ](https://reactjs.org/docs/getting-started.html)**
 * **[ JavaScript ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 * **[ SASS (SCSS) ](https://sass-lang.com/documentation/)**
 * **[ Json-Server Library to create a fake api ](https://www.npmjs.com/package/json-server)**
