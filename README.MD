@@ -16,7 +16,8 @@ This project was particularly made to iniciate my posting journey at LinkedIn, s
 <!-- <br> -->
 
 ## 🚀 Techs used 
-* **[ ReactJS ](https://reactjs.org/docs/getting-started.html)**
+* **[Vite JS](https://vitejs.dev/)**
+* **[ ReactJ S ](https://reactjs.org/docs/getting-started.html)**
 * **[ JavaScript ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 * **[ SASS (SCSS) ](https://sass-lang.com/documentation/)**
 * **[ Json-Server Library to create a fake api ](https://www.npmjs.com/package/json-server)**
@@ -24,5 +25,6 @@ This project was particularly made to iniciate my posting journey at LinkedIn, s
 <!-- <br>  -->
 
 ## 📝 Main learnings
+* Using Vite for the first time
 * Deploying the project at **[Vercel](https://vercel.com/home)** 
 * Recording the project and making this README more professional 
