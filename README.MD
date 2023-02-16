@@ -12,6 +12,7 @@
 
 ## ☕ More about 
 This project was particularly made to iniciate my posting journey at LinkedIn, so I have a such good feeling about it. Besides that, it's a classic and simple programming challenge :) 
+PS: Since the json-server lib is in beta, the api manipulation sometimes takes a little time. 
 
 <!-- <br> -->
 
