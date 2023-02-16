@@ -37,7 +37,7 @@ const Form = ({api, setTodos}) =>{
 
   return (
     <form onSubmit={handleSubmit} > 
-      <input id="form-input" type="text" placeholder="Add a todo" value={title} onChange={ (e) => setTitle(e.target.value)}
+      <input id="form-input" autoComplete='off' type="text" placeholder="Add a todo" value={title} onChange={ (e) => setTitle(e.target.value)}
       />
       <button type="submit"> Add Task </button>
     </form>
