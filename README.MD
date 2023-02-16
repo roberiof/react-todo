@@ -1,3 +1,28 @@
-# react - todo
+<h1 align=center> TO-DO WITH REACT</h1>
 
-Simple ToDo build with ReactJS, JS e SASS by Vite.It was my first time using the last one and I really liked it. Using Vite is way faster than using create-react-app hehe 
+<br>
+
+[react-todo.webm](https://user-images.githubusercontent.com/107323497/219379199-49e92ea6-e2de-4be6-a5dc-e5c1c0899498.webm)
+
+<br>
+
+> Use the project yourself: <https://react-todo-two-kappa.vercel.app/> 
+
+<br>
+
+## ☕ More about 
+This project was particularly made to iniciate my posting journey at LinkedIn, so I have a such good feeling about it. Besides that, it's a classic and simple programming challenge :) 
+
+<!-- <br> -->
+
+## 🚀 Techs used 
+* **[ ReactJS ](https://reactjs.org/docs/getting-started.html)**
+* **[ JavaScript ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+* **[ SASS (SCSS) ](https://sass-lang.com/documentation/)**
+* **[ Json-Server Library to create a fake api ](https://www.npmjs.com/package/json-server)**
+
+<!-- <br>  -->
+
+## 📝 Main learnings
+* Deploying the project at **[Vercel](https://vercel.com/home)** 
+* Recording the project and making this readme more professinal 
