@@ -25,4 +25,4 @@ This project was particularly made to iniciate my posting journey at LinkedIn, s
 
 ## 📝 Main learnings
 * Deploying the project at **[Vercel](https://vercel.com/home)** 
-* Recording the project and making this readme more professinal 
+* Recording the project and making this README more professional 
